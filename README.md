@@ -4,7 +4,7 @@
 
 
 - 🏢 I'm currently working at **Zup I.T. Innovation**
-- ⚙️ I use daily: `.js`, `.kt`, `.cs`, `.py`, `.html`, `.css`,
+- ⚙️ I use daily: `.js`, `.tsx`, `.kt`, `.cs`, `.py`, `.html`, `.css`,
 - 🌱 Learning all about **Open Source** **Mobile Development**
 - 👯 I’m looking to collaborate on **Fun** projects that will make me learn **Fun** stuff
 - 💬 Ping me about **reactnative**, **nodejs**, **iot**, **raspberry pi**, **netcore**, **kotlin**

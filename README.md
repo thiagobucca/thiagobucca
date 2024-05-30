@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer from Uberlândia, Brazil.
 
 
-- 🏢 I'm currently working at **Pumpkintech**
+- 🏢 I'm currently working at **ZUP Innovation**
 - ⚙️ I use daily: `.js`, `.tsx`, `.kt`, `.cs`, `.py`, `.html`, `.css`,
 - 🌱 Learning all about **Open Source** **Mobile Development**
 - 👯 I’m looking to collaborate on **Fun** projects that will make me learn **Fun** stuff
